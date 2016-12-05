@@ -1,9 +1,4 @@
-http://www.shahinul.com/codeigniter/using-eloquent-orm-with-codeigniter-3/
-
-add require_once './vendor/autoload.php';  
-in index.php
-
-Steps for Eloquent
+Steps to implement Eloquent in Codeigniter 
 
 Step 1. your-project-folder/composer.json
 add this under requirement.
