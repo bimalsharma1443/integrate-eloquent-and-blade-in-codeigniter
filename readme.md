@@ -16,7 +16,7 @@
 
 ## Step 2. 
 
-* ** open Terminal/cmd and write `composer install`**
+* **open Terminal/cmd and write `composer install`**
 
 ## Step 3. 
 
