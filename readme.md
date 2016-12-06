@@ -2,8 +2,8 @@
 
 ## Step 1. your-project-folder/composer.json
 
-* **add this under requirement.**
-{
+ **add this under requirement.**
+
 	"require": {
 		"php": ">=5.2.4",
 		"illuminate/database": "4.2.x",
@@ -11,7 +11,7 @@
 		"illuminate/html": "4.*",
 		"illuminate/view": "4.*"
 	},
-}
+
 
 ## Step 2. open Terminal/cmd and write  composer install
 
