@@ -2,7 +2,7 @@
 
 ## Step 1. 
 
-** goto your-project-folder/composer.json
+** goto your-project-folder/composer.json **
 
 ** add this under requirement.**
 
