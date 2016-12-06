@@ -1,11 +1,12 @@
 # Steps to implement Eloquent in Codeigniter.
 
-## Step 1. your-project-folder/composer.json
+## Step 1. 
 
- **add this under requirement.**
+** goto your-project-folder/composer.json
+
+** add this under requirement.**
 
 	"require": {
-		"php": ">=5.2.4",
 		"illuminate/database": "4.2.x",
 		"windwalker/renderer": "2.*",
 		"illuminate/html": "4.*",
@@ -13,7 +14,9 @@
 	},
 
 
-## Step 2. open Terminal/cmd and write  composer install
+## Step 2. 
+
+** open Terminal/cmd and write `composer install`
 
 ## Step 3. open config/autoload.php and update to 
 $autoload['libraries'] = array('database');
