@@ -2,9 +2,9 @@
 
 ## Step 1. 
 
-** goto your-project-folder/composer.json **
+* ** goto your-project-folder/composer.json **
 
-** add this under requirement.**
+* ** add this under requirement.**
 
 	"require": {
 		"illuminate/database": "4.2.x",
