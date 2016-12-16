@@ -179,7 +179,7 @@
 		$config['cache_path'] = APPPATH . 'cache/blade';
 
 # Step 7. 
-* **create folder inside the application/cache**
+* **Create folder inside the application/cache**
 
 * **Blade is implimented and now you can use it.**
  
